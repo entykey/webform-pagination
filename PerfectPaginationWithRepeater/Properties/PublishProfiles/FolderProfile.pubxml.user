@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\TuanMacbookPro\Downloads\WebformPagination</_PublishTargetUrl>
+    <History>True|2023-06-06T17:13:06.6138149Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 09:06:24</publishTime>
+    </File>
+    <File Include="bin/PerfectPaginationWithRepeater.dll">
+      <publishTime>06/07/2023 00:13:05</publishTime>
+    </File>
+    <File Include="bin/PerfectPaginationWithRepeater.pdb">
+      <publishTime>06/07/2023 00:13:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/19/2015 03:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/19/2015 03:19:46</publishTime>
+    </File>
+    <File Include="Database/MyScript.sql">
+      <publishTime>05/17/2023 01:13:18</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/17/2023 01:18:12</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/16/2023 22:20:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/07/2023 00:13:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
